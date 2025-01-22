@@ -1,0 +1,42 @@
+p{
+    margin: 0;
+}
+.quote{
+    margin: 0;
+    font-style: italic;
+}
+.author{
+    margin: 0;
+    margin-left: 8em;
+    font-style: italic;
+    color: rgb(100, 100, 100);
+}
+.bg-grey{
+    background-color: rgba(240, 240, 240,1);
+}
+.end-credits{
+    font-size: 0.75rem;
+}
+.social-media{
+    font-size: 1.25rem;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+#home-section{
+    padding: 6.5em 0 2em;
+}
+#service-section{
+    padding: 6.5em 0 2em;
+}
+#experience-section{
+    padding: 6.5em 0 2em;
+}
+#contact-section{
+    padding: 6.5em 0 2em;
+
+}
